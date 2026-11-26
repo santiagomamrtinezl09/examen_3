@@ -1,2 +1,2 @@
-Tercer examen parcial
-Santiago Martinez Lopera
+# Tercer examen parcial
+## Santiago Martinez Lopera
