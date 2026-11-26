@@ -24,3 +24,6 @@ A lo largo de este curso aprendí principalmente las bases de GitHub: cómo crea
 | git commit | Guarda cambios | git commit -m "msg" |
 | git push | Sube a GitHub | git push origin main |
 | git pull | Baja cambios | git pull origin main |
+
+
+print("Hola Git")
