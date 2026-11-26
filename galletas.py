@@ -1,4 +1,4 @@
-  GNU nano 9.2                                  galletas.py                                   Modifi
+# Marcas de galletas                                  galletas.py                                   Modifi
 print("Festival")
 print("Saltin")
 print("Ducales")

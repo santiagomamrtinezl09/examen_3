@@ -26,4 +26,8 @@ A lo largo de este curso aprendí principalmente las bases de GitHub: cómo crea
 | git pull | Baja cambios | git pull origin main |
 
 
+## Ejemplo en Python
+
+```python
 print("Hola Git")
+```
